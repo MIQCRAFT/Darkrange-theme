@@ -6,6 +6,9 @@ This was made to let everyone who wants, able to have a more good-looking style.
 Need help? Join my server! **[https://mewinvite.netlify.app/](https://mewinvite.netlify.app/)**
 
 ### Download Darkrange Theme [Darkrange-Theme](https://miqcraft-theme.netlify.app).
+Or
+Install With Userstyle.org [Stylish]
+### Go to Pages [Userstyle/MIQCRAFT](https://userstyles.org/styles/browse?search_terms=miqcraft&type=true)
 
 **I found a bug, what do I do?**<br>Make a **Pull Request / Issue** and tell me :)
 
