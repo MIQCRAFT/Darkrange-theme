@@ -1,0 +1,19 @@
+/**
+ * @name Darkrange Theme
+ * @version 2.5.0
+ * @description A Simple & Modern Dark theme
+ * @author MyQ#4052
+ * @authorId 	586516314261159971
+ * 
+ * @website https://github.com/MIQCRAFT/Darkrange-BetterDiscord-Theme
+ * @source https://github.com/MIQCRAFT/Darkrange-BetterDiscord-Theme
+ * @donate https://www.paypal.com/paypalme/miqcraftpaypal
+ * @invite AVxDaQCCxE
+ */
+
+@import url("https://miqcraft-theme.netlify.app/theme/discord/discord.css");
+
+:root {
+  --accent-color: #ffbb00;
+  --accent-text-color: #1c1c1c;
+}
