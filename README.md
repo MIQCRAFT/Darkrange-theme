@@ -5,8 +5,7 @@
 This was made to let everyone who wants, able to have a more good-looking style. It supports any plugins.
 Need help? Join my server! **[https://mewinvite.netlify.app/](https://mewinvite.netlify.app/)**
 
-### Download Darkrange Theme for Web Browser [Darkrange-Theme](https://miqcraft-theme.netlify.app).
-### Download Darkrange Theme for Win, Mac, Linux [Darkrange-Theme](https://itsmemiq.netlify.app).
+### Download Darkrange Theme [Darkrange-Theme](https://miqcraft-theme.netlify.app).
 
 **I found a bug, what do I do?**<br>Make a **Pull Request / Issue** and tell me :)
 
