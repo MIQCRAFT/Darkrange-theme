@@ -19,6 +19,7 @@ Install With Userstyle.org [Stylish]
 <a href="http://google.com.au/" rel="some text">![Preview 3](https://miqcraft-theme.netlify.app/assets/img/tampilan/3.jpg)</a>
 <a href="https://github.com/MIQCRAFT/Darkrange-BetterDiscord-Theme" rel="some text">![Preview 4](https://miqcraft-theme.netlify.app/assets/img/tampilan/4.jpg)</a>
 <a href="https://github.com/MIQCRAFT/Darkrange-Youtube.studio-Theme" rel="some text">![Preview 4](https://miqcraft-theme.netlify.app/assets/img/tampilan/yts.jpg)</a>
+<a href="https://github.com/MIQCRAFT/Darkrange-Youtube.studio-Theme" rel="some text">![Preview 4](https://miqcraft-theme.netlify.app/assets/img/tampilan/6.jpg)</a>
 
 
 # License
