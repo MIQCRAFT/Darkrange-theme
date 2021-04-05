@@ -16,10 +16,10 @@ Install With Userstyle.org [Stylish]
 
 <a href="https://github.com/MIQCRAFT/Darkrange-Instagram-Theme" rel="some text">![Preview 1](https://miqcraft-theme.netlify.app/assets/img/tampilan/1.jpg)</a>
 <a href="https://github.com/MIQCRAFT/Darkrange-GoogleClassroom-Theme" rel="some text">![Preview 2](https://miqcraft-theme.netlify.app/assets/img/tampilan/2.jpg)</a>
-<a href="http://google.com.au/" rel="some text">![Preview 3](https://miqcraft-theme.netlify.app/assets/img/tampilan/3.jpg)</a>
+<a href="https://github.com/MIQCRAFT/Darkrange-Youtube-Theme" rel="some text">![Preview 3](https://miqcraft-theme.netlify.app/assets/img/tampilan/5.jpg)</a>
 <a href="https://github.com/MIQCRAFT/Darkrange-BetterDiscord-Theme" rel="some text">![Preview 4](https://miqcraft-theme.netlify.app/assets/img/tampilan/4.jpg)</a>
-<a href="https://github.com/MIQCRAFT/Darkrange-Youtube.studio-Theme" rel="some text">![Preview 4](https://miqcraft-theme.netlify.app/assets/img/tampilan/yts.jpg)</a>
-<a href="https://userstyles.org/styles/200866/google-drive-miqcraft-theme" rel="some text">![Preview 4](https://miqcraft-theme.netlify.app/assets/img/tampilan/6.jpg)</a>
+<a href="https://github.com/MIQCRAFT/Darkrange-Youtube.studio-Theme" rel="some text">![Preview 4](https://miqcraft-theme.netlify.app/assets/img/tampilan/3.jpg)</a>
+<a href="https://github.com/MIQCRAFT/Darkrange-GoogleDrive-Theme" rel="some text">![Preview 4](https://miqcraft-theme.netlify.app/assets/img/tampilan/6.jpg)</a>
 
 
 # License
